@@ -1,4 +1,4 @@
-
+//Ich bin ein kommentar
 public class Golf extends Auto {
 
 	Golf(int kmH, int ps, Farbe farbe) {
